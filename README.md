@@ -71,8 +71,8 @@ RegisterNumber:24900407
 
 
 **Output/TIMING Waveform**
-![Screenshot 2024-12-10 130416](https://github.com/user-attachments/assets/633818db-712e-47dd-8662-2cc7e28b4946)
 
+![Screenshot 2024-12-10 131227](https://github.com/user-attachments/assets/6bfb9185-f353-4a95-bf3f-e6a030bdb8f3)
 
 **Result:**
 
